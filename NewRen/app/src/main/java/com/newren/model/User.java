@@ -3,7 +3,7 @@ package com.newren.model;
 import java.util.Date;
 
 /**
- * Created by ÀÖ on 2015/8/2.
+ * Created by nele on 2015/8/2.
  */
 public class User {
     private Integer id;
